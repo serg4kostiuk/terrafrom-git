@@ -1,5 +1,5 @@
 resource "github_repository" "develop2244" {
-	name = "mynamerepository"
+	name = "mynamerepository777"
  	description  = "MyRepoForPracticeDevs"
 	private = false
   auto_init = true
